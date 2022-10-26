@@ -1,0 +1,14 @@
+D:\projects\OOP\Camp2\bin\Debug\netcoreapp3.1\Camp2.exe
+D:\projects\OOP\Camp2\bin\Debug\netcoreapp3.1\Camp2.deps.json
+D:\projects\OOP\Camp2\bin\Debug\netcoreapp3.1\Camp2.runtimeconfig.json
+D:\projects\OOP\Camp2\bin\Debug\netcoreapp3.1\Camp2.runtimeconfig.dev.json
+D:\projects\OOP\Camp2\bin\Debug\netcoreapp3.1\Camp2.dll
+D:\projects\OOP\Camp2\bin\Debug\netcoreapp3.1\Camp2.pdb
+D:\projects\OOP\Camp2\obj\Debug\netcoreapp3.1\Camp2.csproj.AssemblyReference.cache
+D:\projects\OOP\Camp2\obj\Debug\netcoreapp3.1\Camp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\OOP\Camp2\obj\Debug\netcoreapp3.1\Camp2.AssemblyInfoInputs.cache
+D:\projects\OOP\Camp2\obj\Debug\netcoreapp3.1\Camp2.AssemblyInfo.cs
+D:\projects\OOP\Camp2\obj\Debug\netcoreapp3.1\Camp2.csproj.CoreCompileInputs.cache
+D:\projects\OOP\Camp2\obj\Debug\netcoreapp3.1\Camp2.dll
+D:\projects\OOP\Camp2\obj\Debug\netcoreapp3.1\Camp2.pdb
+D:\projects\OOP\Camp2\obj\Debug\netcoreapp3.1\Camp2.genruntimeconfig.cache
