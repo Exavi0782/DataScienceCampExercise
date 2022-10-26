@@ -1,0 +1,14 @@
+D:\projects\Camp3\bin\Debug\netcoreapp3.1\Camp3.exe
+D:\projects\Camp3\bin\Debug\netcoreapp3.1\Camp3.deps.json
+D:\projects\Camp3\bin\Debug\netcoreapp3.1\Camp3.runtimeconfig.json
+D:\projects\Camp3\bin\Debug\netcoreapp3.1\Camp3.runtimeconfig.dev.json
+D:\projects\Camp3\bin\Debug\netcoreapp3.1\Camp3.dll
+D:\projects\Camp3\bin\Debug\netcoreapp3.1\Camp3.pdb
+D:\projects\Camp3\obj\Debug\netcoreapp3.1\Camp3.csproj.AssemblyReference.cache
+D:\projects\Camp3\obj\Debug\netcoreapp3.1\Camp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Camp3\obj\Debug\netcoreapp3.1\Camp3.AssemblyInfoInputs.cache
+D:\projects\Camp3\obj\Debug\netcoreapp3.1\Camp3.AssemblyInfo.cs
+D:\projects\Camp3\obj\Debug\netcoreapp3.1\Camp3.csproj.CoreCompileInputs.cache
+D:\projects\Camp3\obj\Debug\netcoreapp3.1\Camp3.dll
+D:\projects\Camp3\obj\Debug\netcoreapp3.1\Camp3.pdb
+D:\projects\Camp3\obj\Debug\netcoreapp3.1\Camp3.genruntimeconfig.cache
